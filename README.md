@@ -1,5 +1,9 @@
 # MI231
 Game and Interactive Media Development course at MSU
 
-# NOTE! - There are index.html files in all of these zips so that you can play these on the web
-When running these make sure to run with firefox. You will get issues running it on other browsers.
+# NOTE! 
+The webGL versions of these do not currently work so the entire projects are included in the folders
+They run in Unity as of now and I am working to figure out the webGL issues so that the games are 
+playable from the web.
+
+**p.s.** The old builds only worked well with Firefox, so hopefully the new ones work on all browsers.
