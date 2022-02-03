@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PowerUp
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - QBlocks
+  - Breakables
+  - Pipes
+  - Ground
+  - Background
+  - powerUp
+  - Bullet
+  - Hazards
+  - Barrier
+  - UnderTiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3819276021
+    locked: 0
+  - name: Breakable
+    uniqueID: 4209298029
+    locked: 0
+  - name: Background
+    uniqueID: 3557357391
+    locked: 0

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/_Materials/Mat_Starfield.mat
+    - Assets/_Materials/Mat_Starfield.mat.meta
+    - Assets/_Materials/Mat_Starfield_Transparent.mat
+    - Assets/_Materials/Mat_Starfield_Transparent.mat.meta
+    - Assets/_Prefabs/Enemy_0.prefab
+    - Assets/_Prefabs/Enemy_1.prefab
+    - Assets/_Prefabs/Enemy_1.prefab.meta
+    - Assets/_Prefabs/Enemy_2.prefab
+    - Assets/_Prefabs/Enemy_2.prefab.meta
+    - Assets/_Prefabs/Enemy_3.prefab
+    - Assets/_Prefabs/Enemy_3.prefab.meta
+    - Assets/_Prefabs/Enemy_4.prefab
+    - Assets/_Prefabs/Enemy_4.prefab.meta
+    - Assets/__Scene_0.unity
+    - Assets/__Scripts/BlinkColorOnHit.cs
+    - Assets/__Scripts/EnemyShield.cs
+    - Assets/__Scripts/EnemyShield.cs.meta
+    - Assets/__Scripts/Enemy_4.cs
+    - Assets/__Scripts/Parallax.cs
+    - Assets/__Scripts/Parallax.cs.meta
+    - 
+    m_Values: 000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
